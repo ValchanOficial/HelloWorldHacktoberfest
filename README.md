@@ -1,6 +1,6 @@
 # HelloWorldHacktoberfest 
 
 
-Ainda estou aprendendo a usar esse treco '-'
-Repositório evento Hacktoberfest.
+
+Repositório para receber pull requests
 
