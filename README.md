@@ -13,3 +13,4 @@ Os contribuidores para este repositório são:
 - MrNaru300
 - EdilsonRohden
 - DRXDesign
+- deividynegri
