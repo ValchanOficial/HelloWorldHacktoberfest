@@ -1,1 +1,3 @@
-alert('Hello World!');
+function hello() {
+  alert("Happy Hacktoberfest!");
+}
