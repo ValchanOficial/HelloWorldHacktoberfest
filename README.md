@@ -1,6 +1,6 @@
 # HelloWorldHacktoberfest 
 
 
-contribuidores 
+Ainda estou aprendendo a usar esse treco '-'
+Repositório evento Hacktoberfest.
 
-O dia está lindo e muito divertido.
