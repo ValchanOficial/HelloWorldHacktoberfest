@@ -1,0 +1,6 @@
+PROGRAM hello
+  CHARACTER (LEN=27) inputString
+  READ "(a27)", inputString
+  PRINT *,"Hello, World."
+  PRINT *,inputString
+END PROGRAM
