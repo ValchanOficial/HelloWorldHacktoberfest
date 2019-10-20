@@ -15,6 +15,8 @@ Os contribuidores para este repositório são:
 - DRXDesign
 - namangupta1399
 - deividynegri
+- jhonatan-c
+- jhonatanbeltran
 - SaundraMJohnson
 - matheusfelipeog
 - meyer20
