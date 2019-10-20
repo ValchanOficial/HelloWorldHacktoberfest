@@ -1,4 +1,4 @@
-class HelloWord {
+class HelloWorld {
     greeting: string;
 
     constructor(message: string) {
@@ -9,5 +9,5 @@ class HelloWord {
     }
 }
 
-let greeter = new HelloWord("Hello, world!");
+let greeter = new HelloWorld('Hello, world!!!');
 console.log(greeter.greet());
