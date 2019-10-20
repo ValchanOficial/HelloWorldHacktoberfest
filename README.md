@@ -15,3 +15,4 @@ Os contribuidores para este repositório são:
 - DRXDesign
 - namangupta1399
 - deividynegri
+- jhonatanbeltran
