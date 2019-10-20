@@ -2,9 +2,9 @@
 
 
 
-Repositório para receber pull requests
+Repository to receive pull requests
 
-Os contribuidores para este repositório são:
+The contributors to this repository are:
 - dvir019
 - Yoorana
 - Ytr00m
@@ -16,5 +16,3 @@ Os contribuidores para este repositório são:
 - namangupta1399
 - deividynegri
 - SaundraMJohnson
-- matheusfelipeog
-- meyer20
