@@ -10,4 +10,4 @@ class HelloWorld {
 }
 
 let greeter = new HelloWorld('Hello, world!!!');
-console.log(greeter.greet());
+console.log(greeter.greet() as string);
