@@ -1,9 +1,3 @@
-module Hello;
-initial
-begin : main
-
-	$display ("Hello World!");
-
-end
-endmodule
-	
+fn main() {
+    println("Hello World\n")
+}
