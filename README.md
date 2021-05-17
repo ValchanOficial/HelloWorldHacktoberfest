@@ -21,3 +21,4 @@ Os contribuidores para este repositório são:
 - matheusfelipeog
 - meyer20
 - CeliaHV
+- lusantisuper
